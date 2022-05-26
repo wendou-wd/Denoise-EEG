@@ -1,0 +1,5 @@
+./data/*
+./EOG_logs/*
+./logs/*
+./train/*
+./train_EOG/*
